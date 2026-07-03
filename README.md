@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hacker.svg" alt="terminal" width="600" />
+  <img src="assets/terminal.svg" alt="terminal" width="600" />
 </p>
 
 <p>
