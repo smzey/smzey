@@ -20,3 +20,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenClaw-E4593B?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-delta-nine-79.vercel.app/api?username=smzey&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats-delta-nine-79.vercel.app/api/top-langs/?username=smzey&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+</p>
