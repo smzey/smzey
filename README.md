@@ -22,6 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-delta-nine-79.vercel.app/api?username=smzey&show_icons=true&hide_rank=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
   <img src="https://github-readme-stats-delta-nine-79.vercel.app/api/top-langs/?username=smzey&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
 </p>
