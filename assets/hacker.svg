@@ -38,7 +38,7 @@
   <circle class="dot" cx="60" cy="15" r="6" fill="#27c93f"/>
 
   <text x="20" y="65"  class="txt line l1">$ whoami</text>
-  <text x="20" y="95"  class="txt line l2">&gt; svoja</text>
+  <text x="20" y="95"  class="txt line l2">&gt; smzey</text>
   <text x="20" y="125" class="txt line l3">$ status --check</text>
   <text x="20" y="155" class="txt line l4">&gt; shipping code, breaking nothing (mostly)</text>
   <text x="20" y="185" class="txt line l5">$ <tspan class="cursor">_</tspan></text>
